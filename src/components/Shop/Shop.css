@@ -8,3 +8,7 @@
   gap: 45px;
   margin: 60px;
 }
+.cart-container .review-btn {
+  background-color: rgb(106, 190, 255);
+  margin-left: 5px;
+}
